@@ -86,3 +86,10 @@ height: 100px;
 .image{
   max-width: 100%;
 }
+.subcontainer2{
+background-image: url("../images/img-locations-background.jpg");
+    height: 500px;
+    width: 1200px;
+    text-align: center;
+    margin-top: 70px;
+  }
